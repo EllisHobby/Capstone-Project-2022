@@ -9,15 +9,15 @@
 #include "Adafruit_BluefruitLE_SPI.h"
 
 // button pin map
-#define SW1  (1 << PC7)    // Port D0 , INT0
-#define SW2  (1 << PD6)    // Port F7
-#define SW3  (1 << PB7)    // Port D1 , INT1
-#define SW4  (1 << PB6)    // Port D2 , INT2
-#define SW5  (1 << PB5)    // Port F6
-#define SW6  (1 << PD7)    // Port D3 , INT3
-#define SW7  (1 << PC6)    // Port B6 , PCINT6
-#define SW8  (1 << PD0)    // Port F5
-#define SW9  (1 << PD1)    // Port B7 , PCINT7
+#define SW1  (1 << PC7)    
+#define SW2  (1 << PD6)   
+#define SW3  (1 << PB7)    
+#define SW4  (1 << PB6)   
+#define SW5  (1 << PB5)   
+#define SW6  (1 << PD7)    
+#define SW7  (1 << PC6)    
+#define SW8  (1 << PD0)    
+#define SW9  (1 << PD1)   
 
 // Offsets will be used
 // to help read inputs
