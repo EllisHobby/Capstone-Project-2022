@@ -1,3 +1,5 @@
+#Author Ellis Hobby Rev 3.0
+
 import asyncio as io
 import subprocess
 from bleak import BleakClient, BleakScanner
